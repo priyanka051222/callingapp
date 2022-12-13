@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "open": "0.0.5",
     "socket.io": "^2.0.3",
     "react-native-webrtc": "^1.75.3"
